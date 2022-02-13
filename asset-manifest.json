@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rudals/static/css/main.2a74c63c.css",
+    "main.js": "/rudals/static/js/main.7b3fa4bb.js",
+    "static/js/787.0a2000e2.chunk.js": "/rudals/static/js/787.0a2000e2.chunk.js",
+    "index.html": "/rudals/index.html",
+    "main.2a74c63c.css.map": "/rudals/static/css/main.2a74c63c.css.map",
+    "main.7b3fa4bb.js.map": "/rudals/static/js/main.7b3fa4bb.js.map",
+    "787.0a2000e2.chunk.js.map": "/rudals/static/js/787.0a2000e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a74c63c.css",
+    "static/js/main.7b3fa4bb.js"
+  ]
+}
